@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+ <body>
+  <h1><em>Welcome to Stevie's Page</em>
+  </h1>
+  <p>This is where I will be re-learning
+   <strong>HTML</strong>. I learned to
+   code <strong>HTML</strong> over 8
+   years ago but never used it. I am
+   jumping back into coding.<em>Thank
+    you,
+    MySpace!</em></p>
+  <img
+   src=https://lh3.googleusercontent.com/proxy/mpbRHNzWOz8de8JVMN3wCCEs-lNNkdgl1d3EQ1BIPBXUBc_M_-dOFmZqdnaqAOce9-zccrkl0AT2TXt3XEBCaPaylI0yofc6-EKBxG_SeKcGKTswxU5oMCDQjxRyeMUFILqZt5khIiDp2_1z9WHOAvYtO5MSsi0aAVQ
+   <br>
+  <p> Connect with me on
+   <a
+    href="https://www.linkedin.com/in/stevie-gould24">LinkedIn</a>
+   <br>
+   <p>
+    <strong>Share your email to recieve
+     an
+     invite to my Facebook page:</strong>
+    <br>
+    <input placeholder="Email"
+     type="email">
+    <br>
+    <input type="checkbox"
+     placeholder=<em>I agree to receive a
+    Facebook group invite</em>
+    </a>
+ </body>
+</html>
